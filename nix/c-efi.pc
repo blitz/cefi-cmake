@@ -1,0 +1,4 @@
+Name: c-efi
+Description: C-EFI Headers
+Version: 1.0.0
+Cflags: -I@OUT@/include
